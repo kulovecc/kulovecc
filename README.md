@@ -1,4 +1,4 @@
-# Hi, I'm Louis Yang 👋
+# Hi, I'm Lu Yang 👋
 
 I'm a **Senior Full-Stack Developer** and **AI Application Engineer** from China with extensive experience in building intelligent enterprise solutions and innovative AI-powered products.
 
